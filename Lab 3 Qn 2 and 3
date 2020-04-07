@@ -1,0 +1,16 @@
+/*Qn2. The "if" statement is called a single selection statement. It selects or ignores a single action that is being processed. 
+            The If statement either either performs an action if a condintion is true or skips the action if the condition is false.
+            Where as the "while" statement is a repetion statement. The while statement allows you to specify that an app should repeat an action
+            while some condition remains true.
+            The similarity is that while statement is like a repeating if statement
+                         */
+             //Qn3.
+
+            int speedLimit = 35;
+            int speed = 42;
+
+            if (speed > speedLimit)
+            {
+                Console.WriteLine("SLOW DOWN!");
+            }
+           
